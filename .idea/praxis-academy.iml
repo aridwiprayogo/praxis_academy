@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-03/case_atm_machine/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-03/case_atm_machine/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-03/case_atm_machine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-03/oop/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-03/oop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-03/oop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-04/data_strcture_collctions_gener/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-04/data_strcture_collctions_gener/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-04/data_strcture_collctions_gener/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-05/asynchronous_programming/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-05/asynchronous_programming/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/01-05/asynchronous_programming/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/case1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/case1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/case1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/start_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/start_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/start_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/start_flutter2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/start_flutter2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/start_flutter2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/buttons_and_stateful_widgets/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/buttons_and_stateful_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/buttons_and_stateful_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/dashboard/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/dashboard/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/dashboard/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/navigate/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/navigate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/navigate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/routes_stateless/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/routes_stateless/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/routes_stateless/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/stateless_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/stateless_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/stateless_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/widgets_layout_implement/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/widgets_layout_implement/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-02/widgets_layout_implement/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-03/assets_images_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-03/assets_images_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-03/assets_images_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/animate/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/animate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/animate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/hero_animate/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/hero_animate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/hero_animate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/hero_animation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/hero_animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-04/02-04/hero_animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-05/praxis_academy/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-05/praxis_academy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-05/sliver_list_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-05/sliver_list_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-05/sliver_list_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-01/fake_forecast_weather_bloc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-01/fake_forecast_weather_bloc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-01/fake_forecast_weather_bloc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-02/todo_list_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-02/todo_list_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-02/todo_list_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-03/chat_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-03/chat_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-03/chat_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-03/flutter-firebase-bakul/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-03/flutter-firebase-bakul/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-03/flutter-firebase-bakul/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-05/flutter_localizations/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-05/flutter_localizations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-05/flutter_localizations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-05/localization/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-05/localization/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-05/localization/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-01/batterylevel/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-01/batterylevel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-01/batterylevel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/device_information_plugin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/device_information_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/device_information_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/device_information_plugin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/device_information_plugin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-02/package_plugin_in_flutter/device_information_plugin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-03/todo_list_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-03/todo_list_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-03/todo_list_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-04/todo_list_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-04/todo_list_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-04/todo_list_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-05/todo_list_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-05/todo_list_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-05/todo_list_flutter/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

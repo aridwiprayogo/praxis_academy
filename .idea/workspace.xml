@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd0dde62-9d91-4fff-aa73-6e0fbb839efe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-01/exercize.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/Case/Max_betwee_index.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/Case/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/Case/index_equal_tovalue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/Case/insertion_sort.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/Case/insertion_sort_backward.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/basic_structure.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/built-in_types.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/function.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/if_else.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/loop.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/operation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-02/variable.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/java/id/example/case_atm_machine/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/lib/balance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/lib/deposit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/lib/mainn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/lib/wihtdraw.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/classes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/constructors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/getter_setter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/images/classes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/images/constructor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/images/inherit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/images/setter_getter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/images/static.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/inheritance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/java/id/example/oop/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/lib/classes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/lib/constructors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/lib/getter_setter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/lib/inheritance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/lib/static_variable_method.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/oop/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-03/static_variable_method.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/java/id/example/data_strcture_collctions_gener/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/lib/case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/lib/list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/lib/maps.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/lib/set.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/data_strcture_collctions_gener/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/images/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/images/set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/maps.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-04/set.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/java/id/example/asynchronous_programming/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/lib/async_await.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/lib/future.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/lib/future_test1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/asynchronous_programming/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/state_management/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/state_management/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/state_management/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/state_management/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/state_management/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/01-05/state_management/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/java/id/example/case1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/case1/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/sf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/sf2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/sf3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/sf4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/startflutter1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/startflutter2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/startflutter3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/images/startflutter4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/java/id/example/start_flutter/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/java/id/example/start_flutter2/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-01/start_flutter2/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/java/id/example/buttons_and_stateful_widgets/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/images/Screenshot_2019-08-15-06-39-27-564_id.example.buttons_and_stateful_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/images/Screenshot_2019-08-15-06-39-37-039_id.example.buttons_and_stateful_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/images/Screenshot_2019-08-15-06-39-45-808_id.example.buttons_and_stateful_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/images/Screenshot_2019-08-15-06-39-53-805_id.example.buttons_and_stateful_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/images/btnpress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/buttons_and_stateful_widgets/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/java/id/example/dashboard/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/lib/dasboard_layout.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/lib/menu_dashboard_layout.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/dashboard/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/images/add_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/images/edit_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/images/helo_world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/images/text_style_bold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/java/id/example/navigate/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/navigate/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/java/id/example/routes_stateless/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/routes_stateless/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/java/id/example/stateless_widget/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/images/stateless_widgets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/stateless_widget/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/java/id/example/widgets_layout_implement/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-02/widgets_layout_implement/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/java/id/example/animate/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/animate0.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/animate1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/animate2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/animate3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/animate4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/animate5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/animate/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gradle/5.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/java/id/example/hero_animate/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/images/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/images/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/images/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/images/fastclean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animate/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/java/id/example/hero_animation/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-04/02-04/hero_animation/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/5.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/android-BasicAccessibility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/kotlin/me/aridwiprayogo/praxis_academy/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/kotlin/me/aridwiprayogo/praxis_academy/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/kotlin/me/aridwiprayogo/praxis_academy/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/main/kotlin/me/aridwiprayogo/praxis_academy/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/novice/01-03/case_atm_machine/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/models/cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/models/cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/models/catalog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/models/catalog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/run.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/run.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/screens/cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/screens/cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/screens/catalog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/screens/catalog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/sliverList.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/sliverList.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/stateManagement.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/stateManagement.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/02-05/praxis_academy/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-05/sliver_list_flutter/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-03/chat_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-03/chat_flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-03/flutter-firebase-bakul" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-03/flutter-firebase-bakul" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-03/flutter-firebase-bakul/lib/pages/kategori/KategoriList.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-03/flutter-firebase-bakul/lib/pages/kategori/KategoriList.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-03/flutter-firebase-bakul/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-03/flutter-firebase-bakul/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/Application/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/Application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/novice/03-04/android-BasicAccessibility/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/04-01/batterylevel/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/04-01/batterylevel/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/fastlane/report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/fastlane/report.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/novice/03-03/chat_flutter/lib/chatscreen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-616">
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/novice/02-05/praxis_academy/lib/main.dart" />
+        <option value="$PROJECT_DIR$/novice/03-03/chat_flutter/lib/main.dart" />
+        <option value="$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/fastlane/Fastfile" />
+        <option value="$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/novice/04-01/batterylevel/lib/main.dart" />
+        <option value="$PROJECT_DIR$/novice/03-03/chat_flutter/lib/chatscreen.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="685" />
+    <option name="width" value="681" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd0dde62-9d91-4fff-aa73-6e0fbb839efe" name="Default Changelist" comment="" />
+      <created>1567407245608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567407245608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1372" height="738" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33383685" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32998326" />
+      <window_info anchor="bottom" id="Run" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.31490788" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/novice/02-05/sliver_list_flutter/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-03/chat_flutter/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/04-05/todo_list_flutter/lib/redux/reducer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/key.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/fastlane/Fastfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/04-05/todo_list_flutter/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/04-01/batterylevel/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/01-01/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-03/chat_flutter/lib/chatscreen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
